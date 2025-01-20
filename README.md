@@ -229,7 +229,8 @@ Use **Postman** or similar API testing tools to test the endpoints.
 ---
 
 ## **API Flow**
-![API-Flow](https://github.com/user-attachments/assets/ad38bcf9-85eb-401a-8a5c-ac527b315af6)
+![API-Flow](https://github.com/user-attachments/assets/87a17f79-5c4d-466f-b937-8395214713ca)
+
 
 ---
 ## 🛡 Security Features  
